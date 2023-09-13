@@ -1,0 +1,33 @@
+D:\DE CUONG & BAI TAP\22-23-HKII\LAP TRINH CSDL\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+D:\DE CUONG & BAI TAP\22-23-HKII\LAP TRINH CSDL\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+D:\DE CUONG & BAI TAP\22-23-HKII\LAP TRINH CSDL\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+D:\DE CUONG & BAI TAP\22-23-HKII\LAP TRINH CSDL\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csprojAssemblyReference.cache
+D:\DE CUONG & BAI TAP\22-23-HKII\LAP TRINH CSDL\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Properties.Resources.resources
+D:\DE CUONG & BAI TAP\22-23-HKII\LAP TRINH CSDL\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.GenerateResource.cache
+D:\DE CUONG & BAI TAP\22-23-HKII\LAP TRINH CSDL\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+D:\DE CUONG & BAI TAP\22-23-HKII\LAP TRINH CSDL\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+D:\DE CUONG & BAI TAP\22-23-HKII\LAP TRINH CSDL\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
+D:\DE CUONG & BAI TAP\22-23-HKII\LAP TRINH CSDL\QuanLySach\QuanLySach\obj\Debug\QuanLySach.GUI.Main.resources
+D:\DE CUONG & BAI TAP\22-23-HKII\LAP TRINH CSDL\QuanLySach\QuanLySach\obj\Debug\QuanLySach.GUI.Sach.resources
+D:\DE CUONG & BAI TAP\22-23-HKII\LAP TRINH CSDL\QuanLySach\QuanLySach\obj\Debug\QuanLySach.GUI.DangNhap.resources
+D:\DE CUONG & BAI TAP\22-23-HKII\LAP TRINH CSDL\QuanLySach\QuanLySach\obj\Debug\QuanLySach.GUI.HoaDon.resources
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csprojAssemblyReference.cache
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Properties.Resources.resources
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.GenerateResource.cache
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\bin\Debug\EntityFramework.dll
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\bin\Debug\EntityFramework.SqlServer.dll
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\bin\Debug\EntityFramework.xml
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\bin\Debug\EntityFramework.SqlServer.xml
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CopyComplete
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\obj\Debug\QuanLySach.GUI.GUI_Sach.resources
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\obj\Debug\QuanLySach.GUI.GUI_ChiTietHD.resources
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\obj\Debug\QuanLySach.GUI.GUI_DangNhap.resources
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\obj\Debug\QuanLySach.GUI.GUI_HoaDon.resources
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\obj\Debug\QuanLySach.GUI.GUI_KhachHang.resources
+D:\DE CUONG & BAI TAP\22-23-HKII\QuanLySach\QuanLySach\obj\Debug\QuanLySach.GUI.GUI_Main.resources
